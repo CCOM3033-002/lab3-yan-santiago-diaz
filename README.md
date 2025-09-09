@@ -102,9 +102,10 @@ Su programa debe...
 - Seguir las instrucciones detalladas arriba (9 pts):
   - Utilizar la función `srand()` para establecer un _seed value_ que garantice que cada vez que se ejecute el programa se genere números aleatorios distintos (5 pts)
   - Desplegar los tres números aleatorios (no ordenados) y luego desplegarlos ordenados como en los ejemplos (4 pts)
-- Utilizar nombres apropiados para las variables (1 pts)
-- Asegurar que los literales que se asignan a variables sean del mismo tipo de dato (1 pt)
-- Tener una indentación apropiada que facilite la legibilidad de su código (2 pt)
-- Debe estar debidamente comentado de manera que su código sea legible y debe contener un *header* con su información y colaboraciones en un comentario (2 pts)
+- Tener nombres apropiados para las variables (1 pt)
+- Tener una indentación apropiada y consistente que facilite la legibilidad de su código (2 pts)
+- Debe estar debidamente comentado de manera que su código sea entendible (2 pts)
+  - Brinde explicaciones donde el proceso no sea obvio, incluya su razonamiento de por qué su implementación funciona.
+- Debe contener un *header* en la parte superior del programa con su información y colaboraciones en un comentario (1 pt)
 - Si su programa no corre o se interrumpe, perderá la mitad de los puntos
 - Solamente utilice conceptos discutidos en clase, de otro modo perderá 1/3 de los puntos
